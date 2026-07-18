@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm ASIF FORIZY</h1>
-<h3 align="center">Passionate About AI, ML, DL, DS</h3>
+<h3 align="center">Full Stack Web Developer | MERN | Passionate About AI ML | Researcher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asifforizy&label=Profile%20views&color=0e75b6&style=flat" alt="asifforizy" />
@@ -16,10 +16,10 @@
 ---
 
 - 🔭 I’m currently working on **E-commerce Website**
-- 🌱 I’m currently learning **React, Next.js**
-- 💬 Ask me about **React, MERN**
+- 🌱 I’m currently learning **Express, TypeScript**
+- 💬 Ask me about **MERN**
 - 📫 Reach me at **asifforizy@gmail.com**
-- ⚡ Fun fact: **I think I am funny 😄**
+- ⚡ Fun fact: **I think I am not funny**
 
 ---
 
